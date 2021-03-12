@@ -1,4 +1,5 @@
 autopep8==1.5.5
+PyAudio==0.2.11
 pycodestyle==2.6.0
 SpeechRecognition==3.8.1
 toml==0.10.2
